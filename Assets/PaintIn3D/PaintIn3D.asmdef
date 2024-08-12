@@ -1,0 +1,15 @@
+{
+    "name": "PaintIn3D",
+    "references": [
+        "Unity.InputSystem",
+        "LeanTouch"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

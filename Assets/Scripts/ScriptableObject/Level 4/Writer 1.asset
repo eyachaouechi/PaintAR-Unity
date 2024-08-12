@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc9edec505aab345a7988d552178089, type: 3}
+  m_Name: Writer 1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8c4606d7760025d47aa1f83db5900baf, type: 3}
+  nameSpeackerText: 'peintre '
+  dialogueText: " Ce tableau s'appelle \"Jeu d'Aristocratie\", Il a \xE9t\xE9 r\xE9alis\xE9
+    en 1985.dans cette peintureJ'ai voulu capturer la passion et la concentration
+    des joueurs de dames. Les hommes que vous voyez sur le tableau sont en train
+    de jouer une partie de dames tr\xE8s \r\nintense."

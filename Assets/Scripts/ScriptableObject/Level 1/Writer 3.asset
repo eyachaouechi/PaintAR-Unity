@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc9edec505aab345a7988d552178089, type: 3}
+  m_Name: Writer 3
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8c4606d7760025d47aa1f83db5900baf, type: 3}
+  nameSpeackerText: 'peintre '
+  dialogueText: "je termine alors la danse \xE9tait \xE9galement une expression de
+    la vie, de l'\xE9nergie et du mouvement. commen\xE7ant par les femmes qui sont
+    repr\xE9sent\xE9es avec des mouvements fluides et gracieux, sugg\xE9rant un flux
+    continu d'\xE9nergie et de vie. passant \xE0 la gazelle repr\xE9sent\xE9e dans
+    des poses gracieuses, avec son corps \xE9lanc\xE9 et ses pattes fines "

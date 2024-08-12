@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="thumbnail_628bb6ca8e935" size="0.200000 0.200000" />
+    <ImageTarget name="vase" size="0.200000 0.257925" />
+    <ImageTarget name="hommesetdame" size="0.200000 0.250330" />
+    <ImageTarget name="hommemusique" size="0.200000 0.159086" />
+    <ImageTarget name="femmesetchameaux" size="0.200000 0.268878" />
+    <ImageTarget name="Image_2" size="0.200000 0.146773" />
+  </Tracking>
+</QCARConfig>

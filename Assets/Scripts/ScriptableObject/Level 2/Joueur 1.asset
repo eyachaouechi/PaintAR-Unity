@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc9edec505aab345a7988d552178089, type: 3}
+  m_Name: Joueur 1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 577ed535a9940c148a9e43316265792d, type: 3}
+  nameSpeackerText: Joueur
+  dialogueText: "C'est tr\xE8s int\xE9ressant. Vous avez vraiment captur\xE9 l'essence
+    du d\xE9sert dans cette peinture. Comment avez-vous choisi les couleurs pour
+    repr\xE9senter cette sc\xE8ne ? -oh c'est vraiment impressionnant"

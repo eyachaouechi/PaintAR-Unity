@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc9edec505aab345a7988d552178089, type: 3}
+  m_Name: Writer 2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8c4606d7760025d47aa1f83db5900baf, type: 3}
+  nameSpeackerText: 'peintre '
+  dialogueText: "Bien s\xFBr. Ce tableau a \xE9t\xE9 cr\xE9\xE9 , dans une p\xE9riode
+    de ma vie o\xF9 j'\xE9tais particuli\xE8rement inspir\xE9 par les femmes , les
+    couleurs et les mouvement. en effet , cette \u0153uvre color\xE9e et vibrante
+    repr\xE9sente un groupe de femmes v\xEAtues de robes color\xE9es en train de
+    danser. Le tableau est une c\xE9l\xE9bration de la beaut\xE9, de la gr\xE2ce
+    et de l'\xE9nergie de la femme."

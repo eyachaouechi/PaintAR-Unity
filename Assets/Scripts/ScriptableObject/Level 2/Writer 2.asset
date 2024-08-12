@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecc9edec505aab345a7988d552178089, type: 3}
+  m_Name: Writer 2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 8c4606d7760025d47aa1f83db5900baf, type: 3}
+  nameSpeackerText: 'peintre '
+  dialogueText: "J'ai utilis\xE9 des couleurs chaudes pour repr\xE9senter la chaleur
+    et la s\xE9cheresse du d\xE9sert, ainsi que des couleurs vives pour repr\xE9senter
+    l'\xE9nergie et la vitalit\xE9 des femmes et des chameaux. J'ai \xE9galement
+    travaill\xE9 avec des contrastes de lumi\xE8re et d'ombre pour cr\xE9er une atmosph\xE8re
+    de calme et de s\xE9r\xE9nit\xE9."
